@@ -4,11 +4,14 @@ body{
 
 h1{
     color: darkorchid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
     font-size: 50px;
     text-align: center;
     text-shadow: 2px 2px #571a6c;
 }
 
 img{
+    
     width: 200px;
 }
